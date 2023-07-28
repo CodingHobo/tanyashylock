@@ -1,10 +1,10 @@
 {
   "/_error": "pages/_error.js",
-  "/api/hello": "pages/api/hello.js",
   "/blog": "pages/blog.html",
+  "/api/hello": "pages/api/hello.js",
   "/demo": "pages/demo.html",
-  "/index-video": "pages/index-video.html",
   "/index-glitch": "pages/index-glitch.html",
+  "/index-video": "pages/index-video.html",
   "/": "pages/index.html",
   "/index3": "pages/index3.html",
   "/single-blog": "pages/single-blog.html",
